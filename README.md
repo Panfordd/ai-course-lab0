@@ -10,4 +10,4 @@ Student ID: 85132028
 
 Description: A repository for labs carried out in the Introduction to Artificial Intelligence Course.
 
-repository URL-
+repository URL-https://github.com/Panfordd/ai-course-lab0.git
